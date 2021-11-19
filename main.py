@@ -10,7 +10,7 @@ from tqdm import tqdm
 import random
 
 global_frames = []
-vids_dir = os.getcwd() + "/bests/"
+vids_dir = os.getcwd() + "/"
 video_nums = 10
 
 
